@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fatwa-app/static/css/main.cdb9457c.css",
+    "main.js": "/fatwa-app/static/js/main.61e12946.js",
+    "static/js/453.0d925d2d.chunk.js": "/fatwa-app/static/js/453.0d925d2d.chunk.js",
+    "static/media/left-top-corner.svg": "/fatwa-app/static/media/left-top-corner.b32d67dedb61b7c302aa.svg",
+    "static/media/right-bottom-corner.svg": "/fatwa-app/static/media/right-bottom-corner.f4c3268b915d9f4330a6.svg",
+    "static/media/message-sent.svg": "/fatwa-app/static/media/message-sent.c7bd0e7dcf1b5981fc90da96e19b4e20.svg",
+    "static/media/search.svg": "/fatwa-app/static/media/search.19f4266ac86d4b33c251.svg",
+    "index.html": "/fatwa-app/index.html",
+    "static/media/getFetch.cjs": "/fatwa-app/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.cdb9457c.css.map": "/fatwa-app/static/css/main.cdb9457c.css.map",
+    "main.61e12946.js.map": "/fatwa-app/static/js/main.61e12946.js.map",
+    "453.0d925d2d.chunk.js.map": "/fatwa-app/static/js/453.0d925d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb9457c.css",
+    "static/js/main.61e12946.js"
+  ]
+}
