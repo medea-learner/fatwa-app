@@ -1,0 +1,120 @@
+{
+    "chat": {
+        "directChat": "ⵜⵉⵣⵉ",
+        "writeYourQuestion": "ⵙⵉⴽⴽⵉⵔ  ⵜⵉⵎⴰⵣⵏⴽ  ⵃⵏⴰ..."
+    },
+    "home": {
+        "header": {
+            "quote": "ⵣⵓⵏⵏⵉⵙ ⵉⴷⵓⵙⵉⵛ ⵣⵉⴱ ⵓⵔ ⵙⵙⵏ."
+        },
+        "search": {
+            "placeholder": "ⵙⵉⵖ ⵏ ⣚ⴰⵟⵡⴰ ⵏⴻⵖ ⵏ ⵓⵙⵍⵓⵏ",
+            "noSuggestions": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ"
+        },
+        "fatwaActions": {
+            "bookCall": "ⵙⵉⴽⴽⵉⵔ ⴰⵎⵓⴷⴷⵓ ⵏ ⣚ⴰⵟⵡⴰ",
+            "askQuestion": "ⵙⴽⵍⵉⵙ ⵉⵍⵍⵉⵉⵏ",
+            "category": "ⵉⵙⵎ ⵏ ⣚ⴰⵟⵡⴰ"
+        },
+        "fatwaItem": {
+            "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ#: ",
+            "readMore": "ⵙⵉⵏⵃⴰⵔ"
+        }
+    },
+    "navbar": {
+        "home": "ⴰⵅⵣⴰⵎ",
+        "about": "ⴰⵢⵢⵉⵏ ⵏⵡⵍ",
+        "donate": "ⴰⵙⴳⵡⴰⵙ",
+        "myQuestions": "ⵉⴷⵉⵏ ⵏⵡⵍ",
+        "notifications": "ⴰⵣⵍⵍⵣⵉⵣ",
+        "noNotifications": "ⵓⵔ ⵉⵍⵍⴰ ⴰⵣⵍⵍⵣⵉⵣ",
+        "profile": "ⵜⵉⵊⵎⵉⵍⵜ",
+        "logout": "ⵜⵜⵓⵍⵎⵜ",
+        "login": "ⵙⴽⴰ",
+        "signup": "ⵙⴽⴽⵉⵔ"
+    },
+    "about": {
+        "title": "ⴰⵢⵢⵉⵏ ⵏⵡⵍ",
+        "description": "ⵣⵉⵍⵏⵎⵎ ⵏ ⵍ'app Fatwa! ⵏⵉⴽⵏⵓ ⵉⵙ-ⴷⵖⵖⵓⵏ ⵏ ⵜⴰⵍⵙⵍⴰⵏ-ⵏⵏⵍⵉⵍ d ⵙ-ⵣⵍⵍⵓⵏ. ⵜⵜⵓⵍⵎⵉⵏ ⵏ ⴰⵏⵍⵛ d ⵎⵓⵙⵓⵏⵉⵏ ⴰⵙⵙⵏⵎⵏ. ⵏⵉⴽⵏⵓ d-ⵏⵙⵧⵥⵏ-ⴰⵎⵓⵙ d ⵏⴰⵡⵍⵙⵎ."
+    },
+    "donate": {
+        "title": "ⴰⵙⴳⵡⴰⵙ",
+        "first_paragraph": "ⴰⵙⴳⵡⴰⵙ ⵏⵡⵍ ⵉⵍⵍⴰ i ⵙⵙⵏⵎⵉⵏ ⵏ ⵍⵏⵏⵡⵉⵍ. ⴰⴳⵉⵙ-ⵙ i ⵏ-ⵕⵉⵍⵏⵙ ⵏ ⵍⵉⵍⵋⵉⵏ d ⵉⵍⵍⴰ ⵉ ⵙⵙⵏⵎⵉⵏ. ⵉⵙⵙⵎⵎ-ⵏⵡⵍ ⵉ-ⵥⵕⵏⵎ-ⵏ d ⴰⵣⵍⵍⵣⵉⵣ. ⵜⴰⵏⵎⵉⵔⵜ i ⵡⵉⵙⵓⵏ-nwen.",
+        "second_paragraph": "ⵉⵎⵉⴷⵏ-ⵉⵍⵍⴰ ⴰⵏ ⵟⵉⵏⵎⵉⵏ ⵏ ⵙⵙⵏⵎⵉⵏ. ⵏⵉⴽⵏⵓ ⵉⵍⵍⴰ ⵉ ⵙⵙⵏⵎⵉⵏ  ⵉ ⵡⵡⵍⵎⵉⵍ."
+    },
+    "fatwaDetail": {
+        "loading": "ⵜⴰⴷⷷⵔⵜ n fatwa...",
+        "questionLabel": "ⵜⴰⵥⵡⴰⵡⵉⵏ",
+        "answerLabel": "ⴰⵙⴳⵔⵉⵎ",
+        "backButton": "ⵙⵉⵏⵃⵓⵔ-ⵉⵟ"
+    },
+    "fatwaEncyclopedia": {
+        "title": "ⵜⴰⵍⵙⵍⴰⵏ n Fatwa",
+        "searchPlaceholder": "ⵙⵉⵖ ⵏ ⣚ⴰⵟⵡⴰ...",
+        "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ",
+        "readMore": "ⵙⵉⵏⵃⴰⵔ"
+    },
+    "login": {
+        "title": "ⵙⴽⴰ",
+        "usernamePlaceholder": "ⵉⵏⵉⴷⵎⴰⴷ",
+        "emailPlaceholder": "ⵎⵉⵍ",
+        "passwordPlaceholder": "ⵜⴰⵥⵡⴰⵔⵜ",
+        "rememberMe": "ⵙⵉⵎⵎⵉⵔⵜ",
+        "submit": "ⵙⴽⴰ",
+        "createAccount": "ⵙⴽⴽⵉⵔ ⵎⴰⵡⵍ"
+    },
+    "myQuestions": {
+        "title": "ⵉⴷⵉⵏ ⵏⵡⵍ",
+        "answered": "ⵉⵍⵍⴰ",
+        "unanswered": "ⵓⵔ ⵉⵍⵍⴰ",
+        "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ",
+        "status": "ⵜⵎⵎⵔⵜ",
+        "readMore": "ⵙⵉⵏⵃⴰⵔ"
+    },
+    "profile": {
+        "title": "ⵜⵉⵊⵎⵉⵍⵜ-nwen",
+        "usernamePlaceholder": "ⵉⵏⵉⴷⵎⴰⴷ",
+        "emailPlaceholder": "ⵎⵉⵍ",
+        "passwordPlaceholder": "ⵜⴰⵥⵡⴰⵔⵜ",
+        "updateButton": "ⵙⴽⴽⵉⵔ ⵉⵍⵍⵉⵏ",
+        "deleteButton": "ⵙⵉⵎⵎⵉⵔ",
+        "confirmDelete": "ⵎⵏⵉⵙⵙⵏⵙ ⵓⵔ ⵙⵙⵎⵎⵉⵔ"
+    },
+    "signup": {
+        "title": "ⴻⵛⴻⵎ",
+        "usernamePlaceholder": "ⵉⵏⵉⴷⵎⴰⴷ",
+        "emailPlaceholder": "ⵎⵉⵍ",
+        "passwordPlaceholder": "ⵜⴰⵥⵡⴰⵔⵜ",
+        "confirmPasswordPlaceholder": "ⵙⵉⵍⵍⵍⵏⴰⵔⵜ",
+        "passwordMismatch": "ⵜⴰⵥⵡⴰⵔⵜ ur ⵏⵉⵍⵍⵍⵏ",
+        "submitButton": "ⵙⴽⴽⵉⵔ"
+    },
+    "submitQuestion": {
+        "title": "ⵙⴽⴽⵉⵔ ⵜⴰ⥊ⵡⴰⵡⵉⵏ",
+        "titleLabel": "ⵜⵓⵣⵣⵓⴼⵜ n fatwa",
+        "nameLabel": "ⵉⵙⵎ",
+        "emailLabel": "ⵎⵉⵍ",
+        "questionLabel": "ⵜⴰ⥊ⵡⴰⵡⵉⵏ",
+        "allFieldsRequired": "ⴰⵎⵅⵕ-ⵉⵙ ⵏⵉⵍⵍⵎ",
+        "submissionError": "ⵜⴰⴷⷷⵔⵜ ⵡⵉⵍⵍⴰ ⵓⵔ ⵙⵙⵏⵎⵉⵏ. ⵙⴽⴽⵉⵔ ⵉⵍⵍⴰ",
+        "successTitle": "ⵜⴰⴷⷷⵔⵜ ⵉⵍⵍⵉⵏ",
+        "successMessage": "ⵙⴽⴽⵉⵔ-ⵎⵙⵓⵏ ⵏⵉⵍⵍⵎ. ⵄⵙⵙⵏⵎⵉⵏⵜ i ⵙⴽⴽⵉⵔ n fatwa.",
+        "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ n fatwa",
+        "backToHome": "ⵙⵉⵏⵃⵓⵔ-ⵉⵟ ⵡⵉⵍⵍⴰ",
+        "submitButton": "ⵙⴽⴽⵉⵔ"
+    },
+    "videoCall": {
+        "raiseHand": "ⵙⴻⴷⵖ ⵜⵜⴰⵣⵡⴰ",
+        "resolveKnockingParticipants": "ⵙⴽⴽⵉⵔ i ⵜⵖⵎⵎⵉⵍⵎ ⵏ ⵓⵙⵍⵓⵏ",
+        "changeSubject": "ⵙⵎⵉⵍⵔⵙ ⵉⵍⵍⵉⵏ",
+        "newInstance": "ⵙⵎⵉⵍⵔⵙ i ⵏⵍⵙⵙⵎⵎⵉⵍⵎ",
+        "loading": "ⵜⴰⴷⷷⵔⵜ...",
+        "title": "JitsiMeeting",
+        "raiseHandCommand": "ⵙⵏⵍⵉⵉⵔ sⴰⵣⵡⴰ",
+        "resolveParticipantCommand": "ⵙⴽⴽⵉⵔ sⵡⵯⵛⵎⵉⵍⵎ",
+        "subjectCommand": "ⵙⵎⵉⵍⵔⵙ sⵉⵍⵍⵉⵏ",
+        "newInstanceCommand": "ⵙⵎⵉⵍⵔⵙ ⵙⵙ ⵏⵍⵙⵙⵎⵎⵉⵍⵎ n JitsiMeeting",
+        "readyToClose": "ⴰⵎⵡⵏⵓⵙ ⵉ ⵙⵙⵏⵎⵉⵏ...",
+        "conferenceSubject": "ⵙⴽⴽⵉⵔ i ⵡⵉⵍⵍⴰ"
+    }
+}
