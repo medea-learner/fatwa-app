@@ -115,6 +115,41 @@
         "newInstanceCommand": "Click here to create a new instance of JitsiMeeting",
         "readyToClose": "Ready to close...",
         "conferenceSubject": "Answering some questions"
+    },
+    "muftiList": {
+        "title": "Select a Mufti",
+        "specialty": "Specialty",
+        "rating": "Rating",
+        "bookCall": "Book a Call"
+    },
+    "bookingForm": {
+        "title": "Book an appointment with {{muftiName}}",
+        "specialty": "Specialty",
+        "rating": "Rating",
+        "fullName": "Full Name",
+        "fullNamePlaceholder": "Enter your full name",
+        "email": "Email",
+        "emailPlaceholder": "Enter your email",
+        "phone": "Phone Number",
+        "phonePlaceholder": "Enter your phone number",
+        "date": "Appointment Date",
+        "time": "Appointment Time",
+        "confirmBooking": "Confirm Booking",
+        "noTimesAvailable": "No times available for the selected date. Please choose a different date.",
+        "selectDate": "Select Date",
+        "selectTime": "Select Time"
+    },
+    "bookingConfirmation": {
+        "title": "Booking Confirmed",
+        "thankYou": "Thank you for booking a call with {{muftiName}}!",
+        "yourDetails": "Your details:",
+        "fullName": "Full Name",
+        "email": "Email",
+        "phone": "Phone",
+        "date": "Date",
+        "time": "Time",
+        "meetingLink": "Meeting Link",
+        "backToHome": "Back to Home"
     }
 }
   

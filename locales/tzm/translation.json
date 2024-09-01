@@ -116,5 +116,40 @@
         "newInstanceCommand": "ⵙⵎⵉⵍⵔⵙ ⵙⵙ ⵏⵍⵙⵙⵎⵎⵉⵍⵎ n JitsiMeeting",
         "readyToClose": "ⴰⵎⵡⵏⵓⵙ ⵉ ⵙⵙⵏⵎⵉⵏ...",
         "conferenceSubject": "ⵙⴽⴽⵉⵔ i ⵡⵉⵍⵍⴰ"
+    },
+    "muftiList": {
+        "title": "ⵉⵖⴱⴰⵍⵓ ⴰⴷ ⵙⵇⵓ ⵜⵎⵓⓕⵜⵉ",
+        "specialty": "ⵜⵏⴰⵇⵉⵜ",
+        "rating": "ⵜⴰⵡⵔⵉ",
+        "bookCall": "ⵙⵇⵓ ⵏ ⵓⵙⵓⵖ"
+    },
+    "bookingForm": {
+        "title": "ⵢⴰⵡⵏ ⵏ ⵎⴰⵍⵙⵉⵜ ⵏ ⵎⵓⴼⵜⵉ ⵏ {{muftiName}}",
+        "specialty": "ⵉⵙⵉⵖⵉ",
+        "rating": "ⵉⵙⵍⴰⵎ",
+        "fullName": "ⵓⵎⵍⵎ ⴰⴳⴷⵍ",
+        "fullNamePlaceholder": "ⵢⴰⵡⵍ ⵏ ⴰⵎⵍⵎⴷⵉⵎⵉⵏ",
+        "email": "ⴰⵢⵢⵓⵙ ⵏ ⵎⵍⴰⴷⵉ",
+        "emailPlaceholder": "ⵢⴰⵡⵍ ⵏ ⴰⵢⵢⵓⵙⵉⵍⵉ",
+        "phone": "ⴰⵏⵉⵖ ⵏ ⵜⴰⴼⵉⵎⵎⵓⵔⵜ",
+        "phonePlaceholder": "ⵢⴰⵡⵍ ⵏ ⵜⴰⵢⵓⵙⵉⵍⵉ",
+        "date": "ⴰⵏⵙ ⵏ ⵎⵍⴰⴷⵉ",
+        "time": "ⵜⵉⴼⵎⵎⵓⵔⵜ ⵏ ⵎⵍⴰⴷⵉ",
+        "confirmBooking": "ⵉⵎⵍⴰⴷ ⴰⵎⵍⵍⵉⴷⵉⵎ",
+        "noTimesAvailable": "ⵓⵔ ⵉⵍⵍⴰ ⵏⵍⵙⵙⵎⵎⵉⵍⵎ ⵏ ⵜⵉⴼⵎⵎⵓⵔⵜ ⵏ ⵎⵍⴰⴷⵉ",
+        "selectDate": "ⵙⵉ ⵙⵙⴷⵓ ⴰⴽⵓⵛⵛ",
+        "selectTime": "ⵙⵉ ⵙⵙⴷⵓ ⴰⴽⵓⵛⵛ"
+    },
+    "bookingConfirmation": {
+        "title": "ⵜⴰⴷⵡⵉⵜ ⵉⵖⵓⵚ",
+        "thankYou": "ⵜⴰⵏⵎⵉⵔⵜ ⵙⵇⵓ ⵏ ⵓⵙⵓⵖ ⵏ {{muftiName}}!",
+        "yourDetails": "ⵜⴰⵣⵡⴰⵔⵜ-nk:",
+        "fullName": "ⵉⵙⵎ ⵏ ⵓⵖⵉ",
+        "email": "ⵉⵎⴰⵢⵏ",
+        "phone": "ⵜⵍ",
+        "date": "ⴰⵙⵙ",
+        "time": "ⵜⴰⵇⵎⵉⵍⵜ",
+        "meetingLink": "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ",
+        "backToHome": "ⴰⵔ ⵜⵙⵏⴰ"
     }
 }

@@ -115,5 +115,40 @@
         "newInstanceCommand": "Cliquez ici pour créer une nouvelle instance de JitsiMeeting",
         "readyToClose": "Prêt à fermer...",
         "conferenceSubject": "Répondre à quelques questions"
+    },
+    "muftiList": {
+        "title": "Sélectionner un Mufti",
+        "specialty": "Spécialité",
+        "rating": "Évaluation",
+        "bookCall": "Réserver un appel"
+    },
+    "bookingForm": {
+        "title": "Réservez un rendez-vous avec {{muftiName}}",
+        "specialty": "Spécialité",
+        "rating": "Évaluation",
+        "fullName": "Nom complet",
+        "fullNamePlaceholder": "Entrez votre nom complet",
+        "email": "Email",
+        "emailPlaceholder": "Entrez votre email",
+        "phone": "Numéro de téléphone",
+        "phonePlaceholder": "Entrez votre numéro de téléphone",
+        "date": "Date du rendez-vous",
+        "time": "Heure du rendez-vous",
+        "confirmBooking": "Confirmer la réservation",
+        "noTimesAvailable": "Aucun créneau disponible pour la date sélectionnée.",
+        "selectDate": "Sélectionnez la date",
+        "selectTime": "Sélectionnez l'heure"
+    },
+    "bookingConfirmation": {
+        "title": "Réservation Confirmée",
+        "thankYou": "Merci d'avoir réservé un appel avec {{muftiName}}!",
+        "yourDetails": "Vos détails:",
+        "fullName": "Nom complet",
+        "email": "E-mail",
+        "phone": "Téléphone",
+        "date": "Date",
+        "time": "Heure",
+        "meetingLink": "Lien de la réunion",
+        "backToHome": "Retour à l'accueil"
     }
 }

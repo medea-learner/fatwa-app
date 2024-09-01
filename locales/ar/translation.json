@@ -43,14 +43,14 @@
         "second_paragraph": "يمكنكم التبرع بسهولة من خلال اختيار المبلغ المناسب واستخدام وسائل الدفع المتاحة. نحن نقدر كل مساهمة تقومون بها لدعم عملنا."
     },
     "fatwaDetail": {
-        "loading": "جاري تحميل الفتوى...",
+        "loading": "جاري تحميل الفتوى …",
         "questionLabel": "السؤال",
         "answerLabel": "الجواب",
         "backButton": "عودة إلى الموسوعة"
     },
     "fatwaEncyclopedia": {
         "title": "موسوعة الفتاوى",
-        "searchPlaceholder": "البحث عن فتوى...",
+        "searchPlaceholder": "البحث عن فتوى …",
         "refNo": "رقم المرجع",
         "readMore": "اقرأ المزيد"
     },
@@ -115,6 +115,41 @@
         "newInstanceCommand": "انقر هنا لإنشاء مثيل جديد لـ JitsiMeeting",
         "readyToClose": "جاهز للإغلاق",
         "conferenceSubject": "إجابة عن بعض اﻷسئلة"
+    },
+    "muftiList": {
+        "title": "اختر مفتيًا",
+        "specialty": "تخصص",
+        "rating": "تقييم",
+        "bookCall": "احجز مكالمة"
+    },
+    "bookingForm": {
+        "title": "حجز موعد مع {{muftiName}}",
+        "specialty": "التخصص",
+        "rating": "التقييم",
+        "fullName": "الاسم الكامل",
+        "fullNamePlaceholder": "أدخل اسمك الكامل",
+        "email": "البريد الإلكتروني",
+        "emailPlaceholder": "أدخل بريدك الإلكتروني",
+        "phone": "رقم الهاتف",
+        "phonePlaceholder": "أدخل رقم هاتفك",
+        "date": "تاريخ الموعد",
+        "time": "وقت الموعد",
+        "confirmBooking": "تأكيد الحجز",
+        "noTimesAvailable": "لا توجد مواعيد متاحة في هذا اليوم.",
+        "selectDate": "اختر التاريخ",
+        "selectTime": "اختر الوقت"
+    },
+    "bookingConfirmation": {
+        "title": "تم تأكيد الحجز",
+        "thankYou": "شكرًا لك على حجز مكالمة مع {{muftiName}}!",
+        "yourDetails": "تفاصيلك:",
+        "fullName": "الاسم الكامل",
+        "email": "البريد الإلكتروني",
+        "phone": "الهاتف",
+        "date": "التاريخ",
+        "time": "الوقت",
+        "meetingLink": "رابط الموعد",
+        "backToHome": "العودة إلى الرئيسية"
     }
 }
   
