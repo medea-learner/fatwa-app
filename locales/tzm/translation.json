@@ -150,6 +150,10 @@
         "date": "ⴰⵙⵙ",
         "time": "ⵜⴰⵇⵎⵉⵍⵜ",
         "meetingLink": "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ",
+        "copiedToClipboard": "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ ⵏⵍⵍⴰ ⵏⵍⵙⵙⵎⵎⵉⵍⵎ",
         "backToHome": "ⴰⵔ ⵜⵙⵏⴰ"
+    },
+    "meetingPage": {
+        "meetingTitle": "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ"
     }
 }

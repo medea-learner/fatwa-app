@@ -149,7 +149,11 @@
         "date": "Date",
         "time": "Time",
         "meetingLink": "Meeting Link",
+        "copiedToClipboard": "Meeting link copied to clipboard!",
         "backToHome": "Back to Home"
+    },
+    "meetingPage": {
+        "meetingTitle": "Meeting with Mufti"
     }
 }
   

@@ -149,7 +149,11 @@
         "date": "التاريخ",
         "time": "الوقت",
         "meetingLink": "رابط الموعد",
+        "copiedToClipboard": "تم نسخ الرابط إلى الحافظة",
         "backToHome": "العودة إلى الرئيسية"
+    },
+    "meetingPage": {
+        "meetingTitle": "موعد مع المفتي"
     }
 }
   

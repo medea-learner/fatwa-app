@@ -149,6 +149,10 @@
         "date": "Date",
         "time": "Heure",
         "meetingLink": "Lien de la réunion",
+        "copiedToClipboard": "Lien de la réunion copié dans le presse-papiers!",
         "backToHome": "Retour à l'accueil"
+    },
+    "meetingPage": {
+        "meetingTitle": "Réunion avec le Mufti"
     }
 }
