@@ -19,7 +19,11 @@
         "fatwaItem": {
             "refNo": "Ref-No#:",
             "readMore": "اقرأ المزيد"
-        }
+        },
+        "errorFetchingFatwasCategories": "حدث خطأ أثناء إضافة فئات الفتاوى الى القائمة",
+        "loadingFatwasCategories": "جارى تحميل فئات الفتاوى الى القائمة",
+        "loadingFatwas": "جارى تحميل الفتاوى",
+        "errorFetchingFatwas": "حدث خطأ أثناء إضافة الفتاوى"
     },
     "navbar": {
         "home": "الرئيسية",
@@ -31,7 +35,8 @@
         "profile": "الملف الشخصي",
         "logout": "تسجيل الخروج",
         "login": "تسجيل الدخول",
-        "signup": "انضم إلينا"
+        "signup": "انضم إلينا",
+        "books": "الكتب"
     },
     "about": {
         "title": "من نحن",
@@ -46,13 +51,18 @@
         "loading": "جاري تحميل الفتوى …",
         "questionLabel": "السؤال",
         "answerLabel": "الجواب",
-        "backButton": "عودة إلى الموسوعة"
+        "backButton": "عودة إلى الموسوعة",
+        "noResults": "لا توجد نتائج",
+        "errorFetchingFatwa": "حدث خطأ أثناء تحميل الفتوى"
     },
     "fatwaEncyclopedia": {
         "title": "موسوعة الفتاوى",
         "searchPlaceholder": "البحث عن فتوى …",
         "refNo": "رقم المرجع",
-        "readMore": "اقرأ المزيد"
+        "readMore": "اقرأ المزيد",
+        "noResults": "لا توجد نتائج",
+        "loading": "جاري تحميل الفتاوى …",
+        "errorFetchingFatwas": "حدث خطأ أثناء تحميل الفتاوى"
     },
     "login": {
         "title": "FATWA",
@@ -158,7 +168,10 @@
     "books": {
         "title": "كتب الفتوى",
         "read": "اقرأ الكتاب",
-        "download": "تحميل الكتاب"
+        "download": "تحميل الكتاب",
+        "errorFetchingBooks": "حدث خطأ أثناء تحميل الكتب. يرجى المحاولة مرة أخرى.",
+        "loading": "جاري تحميل الكتب …",
+        "noResults": "لا توجد نتائج"
     }
 }
   

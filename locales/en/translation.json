@@ -19,7 +19,11 @@
         "fatwaItem": {
             "refNo": "Ref-No#:",
             "readMore": "Read More"
-        }
+        },
+        "errorFetchingFatwasCategories": "Error fetching Fatwas categories",
+        "loadingFatwasCategories": "Loading Fatwas categories",
+        "loadingFatwas": "Loading Fatwas ...",
+        "errorFetchingFatwas": "Error fetching Fatwas"
     },
     "navbar": {
         "home": "Home",
@@ -31,7 +35,8 @@
         "profile": "Profile",
         "logout": "Logout",
         "login": "Login",
-        "signup": "Sign Up"
+        "signup": "Sign Up",
+        "books": "Books"
     },
     "about": {
         "title": "About Us",
@@ -46,13 +51,18 @@
         "loading": "Loading Fatwa...",
         "questionLabel": "Question",
         "answerLabel": "Answer",
-        "backButton": "Back to Encyclopedia"
+        "backButton": "Back to Encyclopedia",
+        "noResults": "No Results",
+        "errorFetchingFatwa": "An error occurred while loading the Fatwa"
     },
     "fatwaEncyclopedia": {
         "title": "Fatwa Encyclopedia",
         "searchPlaceholder": "Search for a Fatwa...",
         "refNo": "Reference No",
-        "readMore": "Read More"
+        "readMore": "Read More",
+        "noResults": "No Results",
+        "loading": "Loading Fatwas...",
+        "errorFetchingFatwas": "An error occurred while loading the Fatwas"
     },
     "login": {
         "title": "Login",
@@ -158,7 +168,10 @@
     "books": {
         "title": "Fatwa Books",
         "read": "Read Book",
-        "download": "Download Book"
+        "download": "Download Book",
+        "errorFetchingBooks": "An error occurred while fetching books. Please try again later.",
+        "loading": "Loading Books...",
+        "noResults": "No Results"
     }
 }
   

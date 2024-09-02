@@ -19,7 +19,11 @@
         "fatwaItem": {
             "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ#: ",
             "readMore": "ⵙⵉⵏⵃⴰⵔ"
-        }
+        },
+        "errorFetchingFatwasCategories": "ⵙⵉⵏⵃⴰⵔ ⵙⵉⵖ ⵏ ⵓⵙⵍⵓⵏ",
+        "loadingFatwasCategories": "ⵙⵉⵏⵃⴰⵔ ⵙⵉⵖ ⵏ ⵓⵙⵍⵓⵏ",
+        "loadingFatwas": "ⵙⵉⵏⵃⴰⵔ ⵙⵉⵖ ⵏ ⵓⵙⵍⵓⵏ",
+        "errorFetchingFatwas": "ⵙⵉⵏⵃⴰⵔ ⵙⵉⵖ ⵏ ⵓⵙⵍⵓⵏ"
     },
     "navbar": {
         "home": "ⴰⵅⵣⴰⵎ",
@@ -31,7 +35,8 @@
         "profile": "ⵜⵉⵊⵎⵉⵍⵜ",
         "logout": "ⵜⵜⵓⵍⵎⵜ",
         "login": "ⵙⴽⴰ",
-        "signup": "ⵙⴽⴽⵉⵔ"
+        "signup": "ⵙⴽⴽⵉⵔ",
+        "books": "ⵓⵙⵍⵓⵏ"
     },
     "about": {
         "title": "ⴰⵢⵢⵉⵏ ⵏⵡⵍ",
@@ -46,13 +51,18 @@
         "loading": "ⵜⴰⴷⷷⵔⵜ n fatwa...",
         "questionLabel": "ⵜⴰⵥⵡⴰⵡⵉⵏ",
         "answerLabel": "ⴰⵙⴳⵔⵉⵎ",
-        "backButton": "ⵙⵉⵏⵃⵓⵔ-ⵉⵟ"
+        "noResults": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ",
+        "backButton": "ⵙⵉⵏⵃⵓⵔ-ⵉⵟ",
+        "errorFetchingFatwa": "ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ"
     },
     "fatwaEncyclopedia": {
         "title": "ⵜⴰⵍⵙⵍⴰⵏ n Fatwa",
         "searchPlaceholder": "ⵙⵉⵖ ⵏ ⣚ⴰⵟⵡⴰ...",
         "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ",
-        "readMore": "ⵙⵉⵏⵃⴰⵔ"
+        "readMore": "ⵙⵉⵏⵃⴰⵔ",
+        "noResults": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ",
+        "loading": "ⵜⴰⴷⷷⵔⵜ n fatwa...",
+        "errorFetchingFatwas": "ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ"
     },
     "login": {
         "title": "ⵙⴽⴰ",
@@ -159,6 +169,9 @@
     "books": {
         "title": "ⵜⴰⵍⵙⵍⴰⵏ n ⵓⵙⵓⵖ",
         "read": "ⵙⵉⵏⵃⵓⵔ",
-        "download":  "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ"
+        "download":  "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ",
+        "errorFetchingBooks": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ",
+        "loading": "ⵜⴰⴷⷷⵔⵜ...",
+        "noResults": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ"
     }
 }

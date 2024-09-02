@@ -19,7 +19,11 @@
         "fatwaItem": {
             "refNo": "Réf-No#:",
             "readMore": "Lire la Suite"
-        }
+        },
+        "errorFetchingFatwasCategories": "Une erreur s'est produite lors de l'ajout des catégories des Fatwas à la liste",
+        "loadingFatwasCategories": "Chargement des catégories des Fatwas dans la liste",
+        "loadingFatwas": "Chargement des Fatwas",
+        "errorFetchingFatwas": "Une erreur s'est produite lors de l'ajout des Fatwas"
     },
     "navbar": {
         "home": "Accueil",
@@ -31,7 +35,8 @@
         "profile": "Profil",
         "logout": "Se Déconnecter",
         "login": "Se Connecter",
-        "signup": "S'inscrire"
+        "signup": "S'inscrire",
+        "books": "Livres"
     },
     "about": {
         "title": "À Propos de Nous",
@@ -46,13 +51,18 @@
         "loading": "Chargement de la Fatwa...",
         "questionLabel": "Question",
         "answerLabel": "Réponse",
-        "backButton": "Retour à l'Encyclopédie"
+        "noResults": "Aucun résultat trouvé",
+        "backButton": "Retour à l'Encyclopédie",
+        "errorFetchingFatwa": "Une erreur est survenue lors du chargement de la Fatwa"
     },
     "fatwaEncyclopedia": {
         "title": "Encyclopédie des Fatwas",
         "searchPlaceholder": "Rechercher une Fatwa...",
         "refNo": "Numéro de Référence",
-        "readMore": "Lire la Suite"
+        "readMore": "Lire la Suite",
+        "noResults": "Aucun résultat trouvé",
+        "loading": "En cours de chargement ...",
+        "errorFetchingFatwas": "Une erreur est survenue lors du chargement des Fatwas"
     },
     "login": {
         "title": "Se Connecter",
@@ -158,6 +168,9 @@
     "books": {
         "title": "Livres de Fatwa",
         "read": "Lire",
-        "download": "Télécharger" 
+        "download": "Télécharger",
+        "errorFetchingBooks": "Une erreur est survenue lors de la récupération des livres de Fatwa. Veuillez réessayer.",
+        "loading": "Chargement...",
+        "noResults": "Aucun résultat trouvé."
     }
 }
