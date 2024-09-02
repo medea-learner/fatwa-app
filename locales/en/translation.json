@@ -154,6 +154,11 @@
     },
     "meetingPage": {
         "meetingTitle": "Meeting with Mufti"
+    },
+    "books": {
+        "title": "Fatwa Books",
+        "read": "Read Book",
+        "download": "Download Book"
     }
 }
   

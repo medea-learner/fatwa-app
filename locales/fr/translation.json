@@ -154,5 +154,10 @@
     },
     "meetingPage": {
         "meetingTitle": "Réunion avec le Mufti"
+    },
+    "books": {
+        "title": "Livres de Fatwa",
+        "read": "Lire",
+        "download": "Télécharger" 
     }
 }

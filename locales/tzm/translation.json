@@ -155,5 +155,10 @@
     },
     "meetingPage": {
         "meetingTitle": "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ"
+    },
+    "books": {
+        "title": "ⵜⴰⵍⵙⵍⴰⵏ n ⵓⵙⵓⵖ",
+        "read": "ⵙⵉⵏⵃⵓⵔ",
+        "download":  "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ"
     }
 }

@@ -154,6 +154,11 @@
     },
     "meetingPage": {
         "meetingTitle": "موعد مع المفتي"
+    },
+    "books": {
+        "title": "كتب الفتوى",
+        "read": "اقرأ الكتاب",
+        "download": "تحميل الكتاب"
     }
 }
   
