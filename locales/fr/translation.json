@@ -78,7 +78,10 @@
         "unanswered": "Non Répondues",
         "refNo": "Numéro de Référence",
         "status": "Statut",
-        "readMore": "Lire la Suite"
+        "readMore": "Lire la Suite",
+        "errorFetchingQuestions": "Une erreur est survenue lors du chargement des questions",
+        "loadingQuestions": "Chargement des questions",
+        "noResults": "Aucun résultat trouvé"
     },
     "profile": {
         "title": "Votre Profil",
@@ -130,7 +133,10 @@
         "title": "Sélectionner un Mufti",
         "specialty": "Spécialité",
         "rating": "Évaluation",
-        "bookCall": "Réserver un appel"
+        "bookCall": "Réserver un appel",
+        "loading": "Chargement...",
+        "errorFetchingMuftis": "Une erreur est survenue lors du chargement des Muftis",
+        "noResults": "Aucun résultat trouvé"
     },
     "bookingForm": {
         "title": "Réservez un rendez-vous avec {{muftiName}}",

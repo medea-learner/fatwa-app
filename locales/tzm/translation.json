@@ -79,7 +79,10 @@
         "unanswered": "ⵓⵔ ⵉⵍⵍⴰ",
         "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ",
         "status": "ⵜⵎⵎⵔⵜ",
-        "readMore": "ⵙⵉⵏⵃⴰⵔ"
+        "readMore": "ⵙⵉⵏⵃⴰⵔ",
+        "errorFetchingQuestions": "ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ",
+        "loadingQuestions": "ⵜⴰⴷⷷⵔⵜ n fatwa...",
+        "noResults": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ"
     },
     "profile": {
         "title": "ⵜⵉⵊⵎⵉⵍⵜ-nwen",
@@ -131,7 +134,10 @@
         "title": "ⵉⵖⴱⴰⵍⵓ ⴰⴷ ⵙⵇⵓ ⵜⵎⵓⓕⵜⵉ",
         "specialty": "ⵜⵏⴰⵇⵉⵜ",
         "rating": "ⵜⴰⵡⵔⵉ",
-        "bookCall": "ⵙⵇⵓ ⵏ ⵓⵙⵓⵖ"
+        "bookCall": "ⵙⵇⵓ ⵏ ⵓⵙⵓⵖ",
+        "loading": "ⵜⴰⴷⷷⵔⵜ ⵉⵖⴱⴰⵍⵓ ⴰⴷ ⵙⵇⵓ ⵜⵎⵓⓕⵜⵉ",
+        "errorFetchingMuftis": "ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ",
+        "noResults": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ"
     },
     "bookingForm": {
         "title": "ⵢⴰⵡⵏ ⵏ ⵎⴰⵍⵙⵉⵜ ⵏ ⵎⵓⴼⵜⵉ ⵏ {{muftiName}}",

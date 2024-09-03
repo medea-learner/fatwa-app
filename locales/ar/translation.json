@@ -78,7 +78,10 @@
         "unanswered": "لم تُجَب",
         "refNo": "رقم المرجع",
         "status": "الحالة",
-        "readMore": "اقرأ المزيد"
+        "readMore": "اقرأ المزيد",
+        "errorFetchingQuestions": "حدث خطأ أثناء تحميل الأسئلة",
+        "loadingQuestions": "جاري تحميل الأسئلة",
+        "noResults": "لا توجد نتائج"
     },
     "profile": {
         "title": "حسابك",
@@ -130,7 +133,10 @@
         "title": "اختر مفتيًا",
         "specialty": "تخصص",
         "rating": "تقييم",
-        "bookCall": "احجز مكالمة"
+        "bookCall": "احجز مكالمة",
+        "loading": "جاري تحميل المفتيين …",
+        "errorFetchingMuftis": "حدث خطأ أثناء تحميل المفتيين",
+        "noResults": "لا توجد نتائج"
     },
     "bookingForm": {
         "title": "حجز موعد مع {{muftiName}}",

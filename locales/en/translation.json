@@ -78,7 +78,10 @@
         "unanswered": "Unanswered",
         "refNo": "Reference No",
         "status": "Status",
-        "readMore": "Read More"
+        "readMore": "Read More",
+        "errorFetchingQuestions": "An error occurred while loading the questions",
+        "loadingQuestions": "Loading questions...",
+        "noResults": "No Results"
     },
     "profile": {
         "title": "Your Profile",
@@ -130,7 +133,10 @@
         "title": "Select a Mufti",
         "specialty": "Specialty",
         "rating": "Rating",
-        "bookCall": "Book a Call"
+        "bookCall": "Book a Call",
+        "loading": "Loading Muftis...",
+        "errorFetchingMuftis": "An error occurred while loading the Muftis",
+        "noResults": "No Results"
     },
     "bookingForm": {
         "title": "Book an appointment with {{muftiName}}",
