@@ -113,7 +113,8 @@
         "successMessage": "Your question has been successfully submitted. The mufti will respond as soon as possible, and you will receive a Fatwa notification.",
         "refNo": "Your Fatwa Reference Number",
         "backToHome": "Back to Home",
-        "submitButton": "Submit"
+        "submitButton": "Submit",
+        "phoneLabel": "Phone Number"
     },
     "videoCall": {
         "raiseHand": "Raise Hand",
@@ -158,26 +159,32 @@
     "bookingConfirmation": {
         "title": "Booking Confirmed",
         "thankYou": "Thank you for booking a call with {{muftiName}}!",
-        "yourDetails": "Your details:",
+        "bookingDetails": "Booking details:",
         "fullName": "Full Name",
         "email": "Email",
         "phone": "Phone",
         "date": "Date",
         "time": "Time",
-        "meetingLink": "Meeting Link",
-        "copiedToClipboard": "Meeting link copied to clipboard!",
+        "scheduleReviewMessage": "Your schedule is currently under review by the admin.",
+        "emailConfirmationMessage": "You will receive an email with the meeting details once your schedule is confirmed.",
         "backToHome": "Back to Home"
     },
     "meetingPage": {
         "meetingTitle": "Meeting with Mufti"
     },
     "books": {
-        "title": "Fatwa Books",
-        "read": "Read Book",
-        "download": "Download Book",
-        "errorFetchingBooks": "An error occurred while fetching books. Please try again later.",
-        "loading": "Loading Books...",
-        "noResults": "No Results"
+        "title": "Books",
+        "loading": "Loading books...",
+        "errorFetchingBooks": "There was an error fetching the books.",
+        "noResults": "No books found.",
+        "isbn": "ISBN",
+        "author": "Author",
+        "publisher": "Publisher",
+        "publicationDate": "Publication Date",
+        "language": "Language",
+        "pages": "Pages",
+        "read": "Read",
+        "download": "Download"
     }
 }
   

@@ -113,7 +113,8 @@
         "successMessage": "تم إرسال سؤالك بنجاح، سيجيب المفتي في أقرب وقت وستتلقى إشعار الفتوى.",
         "refNo": "رقم الفتوى",
         "backToHome": "العودة إلى الرئيسية",
-        "submitButton": "إرسال"
+        "submitButton": "إرسال",
+        "phoneLabel":"رقم الهاتف"
     },
     "videoCall": {
         "raiseHand": "ارفع يدك",
@@ -158,26 +159,29 @@
     "bookingConfirmation": {
         "title": "تم تأكيد الحجز",
         "thankYou": "شكرًا لك على حجز مكالمة مع {{muftiName}}!",
-        "yourDetails": "تفاصيلك:",
+        "bookingDetails": "تفاصيل الحجز:",
         "fullName": "الاسم الكامل",
         "email": "البريد الإلكتروني",
         "phone": "الهاتف",
         "date": "التاريخ",
         "time": "الوقت",
-        "meetingLink": "رابط الموعد",
-        "copiedToClipboard": "تم نسخ الرابط إلى الحافظة",
+        "scheduleReviewMessage": "الجدول الزمني الخاص بك قيد المراجعة حاليًا من قبل الإدارة.",
+        "emailConfirmationMessage": "ستتلقى بريدًا إلكترونيًا يحتوي على تفاصيل الاجتماع بمجرد تأكيد الجدول الزمني.",
         "backToHome": "العودة إلى الرئيسية"
     },
     "meetingPage": {
         "meetingTitle": "موعد مع المفتي"
     },
     "books": {
-        "title": "كتب الفتوى",
-        "read": "اقرأ الكتاب",
-        "download": "تحميل الكتاب",
-        "errorFetchingBooks": "حدث خطأ أثناء تحميل الكتب. يرجى المحاولة مرة أخرى.",
-        "loading": "جاري تحميل الكتب …",
-        "noResults": "لا توجد نتائج"
+        "title": "الكتب",
+        "loading": "جاري التحميل...",
+        "errorFetchingBooks": "حدث خطأ أثناء جلب الكتب",
+        "noResults": "لم يتم العثور على كتب",
+        "author": "المؤلف",
+        "publisher": "الناشر",
+        "isbn": "ISBN",
+        "publicationDate": "تاريخ النشر",
+        "pages": "عدد الصفحات"
     }
 }
   

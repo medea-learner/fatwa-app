@@ -114,7 +114,8 @@
         "successMessage": "ⵙⴽⴽⵉⵔ-ⵎⵙⵓⵏ ⵏⵉⵍⵍⵎ. ⵄⵙⵙⵏⵎⵉⵏⵜ i ⵙⴽⴽⵉⵔ n fatwa.",
         "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ n fatwa",
         "backToHome": "ⵙⵉⵏⵃⵓⵔ-ⵉⵟ ⵡⵉⵍⵍⴰ",
-        "submitButton": "ⵙⴽⴽⵉⵔ"
+        "submitButton": "ⵙⴽⴽⵉⵔ",
+        "phoneLabel": "ⴰⵏⵉⵖ ⵏ ⵜⴰⴼⵉⵎⵎⵓⵔⵜ"
     },
     "videoCall": {
         "raiseHand": "ⵙⴻⴷⵖ ⵜⵜⴰⵣⵡⴰ",
@@ -159,25 +160,29 @@
     "bookingConfirmation": {
         "title": "ⵜⴰⴷⵡⵉⵜ ⵉⵖⵓⵚ",
         "thankYou": "ⵜⴰⵏⵎⵉⵔⵜ ⵙⵇⵓ ⵏ ⵓⵙⵓⵖ ⵏ {{muftiName}}!",
-        "yourDetails": "ⵜⴰⵣⵡⴰⵔⵜ-nk:",
+        "bookingDetails": "ⵜⴰⵣⵡⴰⵔⵜ-nk:",
         "fullName": "ⵉⵙⵎ ⵏ ⵓⵖⵉ",
         "email": "ⵉⵎⴰⵢⵏ",
         "phone": "ⵜⵍ",
         "date": "ⴰⵙⵙ",
         "time": "ⵜⴰⵇⵎⵉⵍⵜ",
-        "meetingLink": "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ",
-        "copiedToClipboard": "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ ⵏⵍⵍⴰ ⵏⵍⵙⵙⵎⵎⵉⵍⵎ",
+        "scheduleReviewMessage": "ⵜⵓⵏⴽⵓⵛⴻⵍⵏ ⵏⴽ ⴰⴷⴰⵔⵉⵙ ⵓⴷⴰⵍⵢⴰ ⵉⵇⵎ ⵏ ⵜⵉⵏⵓⵏⵙⵏ ⵏ ⵜⵙⵓⵕⵉⵡⴻⵏ.",
+        "emailConfirmationMessage": "ⴰⵢⵎⴰⵔ ⵉⵎⵣⵓⵏ ⵏⵇⵇⵉ ⵉⵇⵔ ⵜⴰⵙⵉⵏⵏⵉ ⵓⵙⵉⵎⵎⵏⵉⵙ ⵉⴽⵓ ⵜⵓⵏⵓⵕⵙⵏ ⴷⵉ ⵜⵓⵏⴽⵓⵛⴻⵍⵏ.",
         "backToHome": "ⴰⵔ ⵜⵙⵏⴰ"
     },
     "meetingPage": {
         "meetingTitle": "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ"
     },
     "books": {
-        "title": "ⵜⴰⵍⵙⵍⴰⵏ n ⵓⵙⵓⵖ",
-        "read": "ⵙⵉⵏⵃⵓⵔ",
-        "download":  "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ",
-        "errorFetchingBooks": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ",
-        "loading": "ⵜⴰⴷⷷⵔⵜ...",
-        "noResults": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ"
+        "title": "ⵉⴽⴻⴷⵢⴰⵏ",
+        "loading": "ⵉⴽⴻⴷⵢⴰⵏ ⴰⵜⵜⵉⴷ...",
+        "errorFetchingBooks": "ⵜⵓⵛⵛⴷⴰ ⵢⴽⴽⵉ ⴷ ⵓⵙⴰⵏ ⴷ ⵏⴽⴽⵏⵉ ⵏ ⵉⴽⴻⴷⵢⴰⵏ.",
+        "noResults": "ⵓⵍⴰⵙ ⵉⴽⴻⴷⵢⴰⵏ ⵢⴻⵜⵜⵡⴰⴼⵔⴻⵏ.",
+        "isbn": "ⵉⵙⴱⵉⵏ",
+        "author": "ⴰⵎⵣⵔⵓⵢ",
+        "publisher": "ⴰⵅⴰⵎ ⵏ ⵜⴰⵎⴻⴷⵢⴰⵣⵜ",
+        "publicationDate": "ⴰⵣⵎⵣ ⵏ ⵜⴻⵎⵟⴰⵡⵜ",
+        "language": "ⵜⴰⵢⵉⵜ",
+        "pages": "ⵉⴼⴻⴹ"
     }
 }
