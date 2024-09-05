@@ -19,7 +19,11 @@
         "fatwaItem": {
             "refNo": "Ref-No#:",
             "readMore": "Read More"
-        }
+        },
+        "errorFetchingFatwasCategories": "Error fetching Fatwas categories",
+        "loadingFatwasCategories": "Loading Fatwas categories",
+        "loadingFatwas": "Loading Fatwas ...",
+        "errorFetchingFatwas": "Error fetching Fatwas"
     },
     "navbar": {
         "home": "Home",
@@ -31,7 +35,8 @@
         "profile": "Profile",
         "logout": "Logout",
         "login": "Login",
-        "signup": "Sign Up"
+        "signup": "Sign Up",
+        "books": "Books"
     },
     "about": {
         "title": "About Us",
@@ -46,13 +51,18 @@
         "loading": "Loading Fatwa...",
         "questionLabel": "Question",
         "answerLabel": "Answer",
-        "backButton": "Back to Encyclopedia"
+        "backButton": "Back to Encyclopedia",
+        "noResults": "No Results",
+        "errorFetchingFatwa": "An error occurred while loading the Fatwa"
     },
     "fatwaEncyclopedia": {
         "title": "Fatwa Encyclopedia",
         "searchPlaceholder": "Search for a Fatwa...",
         "refNo": "Reference No",
-        "readMore": "Read More"
+        "readMore": "Read More",
+        "noResults": "No Results",
+        "loading": "Loading Fatwas...",
+        "errorFetchingFatwas": "An error occurred while loading the Fatwas"
     },
     "login": {
         "title": "Login",
@@ -68,7 +78,10 @@
         "unanswered": "Unanswered",
         "refNo": "Reference No",
         "status": "Status",
-        "readMore": "Read More"
+        "readMore": "Read More",
+        "errorFetchingQuestions": "An error occurred while loading the questions",
+        "loadingQuestions": "Loading questions...",
+        "noResults": "No Results"
     },
     "profile": {
         "title": "Your Profile",
@@ -100,7 +113,8 @@
         "successMessage": "Your question has been successfully submitted. The mufti will respond as soon as possible, and you will receive a Fatwa notification.",
         "refNo": "Your Fatwa Reference Number",
         "backToHome": "Back to Home",
-        "submitButton": "Submit"
+        "submitButton": "Submit",
+        "phoneLabel": "Phone Number"
     },
     "videoCall": {
         "raiseHand": "Raise Hand",
@@ -120,7 +134,10 @@
         "title": "Select a Mufti",
         "specialty": "Specialty",
         "rating": "Rating",
-        "bookCall": "Book a Call"
+        "bookCall": "Book a Call",
+        "loading": "Loading Muftis...",
+        "errorFetchingMuftis": "An error occurred while loading the Muftis",
+        "noResults": "No Results"
     },
     "bookingForm": {
         "title": "Book an appointment with {{muftiName}}",
@@ -142,18 +159,32 @@
     "bookingConfirmation": {
         "title": "Booking Confirmed",
         "thankYou": "Thank you for booking a call with {{muftiName}}!",
-        "yourDetails": "Your details:",
+        "bookingDetails": "Booking details:",
         "fullName": "Full Name",
         "email": "Email",
         "phone": "Phone",
         "date": "Date",
         "time": "Time",
-        "meetingLink": "Meeting Link",
-        "copiedToClipboard": "Meeting link copied to clipboard!",
+        "scheduleReviewMessage": "Your schedule is currently under review by the admin.",
+        "emailConfirmationMessage": "You will receive an email with the meeting details once your schedule is confirmed.",
         "backToHome": "Back to Home"
     },
     "meetingPage": {
         "meetingTitle": "Meeting with Mufti"
+    },
+    "books": {
+        "title": "Books",
+        "loading": "Loading books...",
+        "errorFetchingBooks": "There was an error fetching the books.",
+        "noResults": "No books found.",
+        "isbn": "ISBN",
+        "author": "Author",
+        "publisher": "Publisher",
+        "publicationDate": "Publication Date",
+        "language": "Language",
+        "pages": "Pages",
+        "read": "Read",
+        "download": "Download"
     }
 }
   

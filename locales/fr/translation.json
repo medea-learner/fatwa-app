@@ -19,7 +19,11 @@
         "fatwaItem": {
             "refNo": "Réf-No#:",
             "readMore": "Lire la Suite"
-        }
+        },
+        "errorFetchingFatwasCategories": "Une erreur s'est produite lors de l'ajout des catégories des Fatwas à la liste",
+        "loadingFatwasCategories": "Chargement des catégories des Fatwas dans la liste",
+        "loadingFatwas": "Chargement des Fatwas",
+        "errorFetchingFatwas": "Une erreur s'est produite lors de l'ajout des Fatwas"
     },
     "navbar": {
         "home": "Accueil",
@@ -31,7 +35,8 @@
         "profile": "Profil",
         "logout": "Se Déconnecter",
         "login": "Se Connecter",
-        "signup": "S'inscrire"
+        "signup": "S'inscrire",
+        "books": "Livres"
     },
     "about": {
         "title": "À Propos de Nous",
@@ -46,13 +51,18 @@
         "loading": "Chargement de la Fatwa...",
         "questionLabel": "Question",
         "answerLabel": "Réponse",
-        "backButton": "Retour à l'Encyclopédie"
+        "noResults": "Aucun résultat trouvé",
+        "backButton": "Retour à l'Encyclopédie",
+        "errorFetchingFatwa": "Une erreur est survenue lors du chargement de la Fatwa"
     },
     "fatwaEncyclopedia": {
         "title": "Encyclopédie des Fatwas",
         "searchPlaceholder": "Rechercher une Fatwa...",
         "refNo": "Numéro de Référence",
-        "readMore": "Lire la Suite"
+        "readMore": "Lire la Suite",
+        "noResults": "Aucun résultat trouvé",
+        "loading": "En cours de chargement ...",
+        "errorFetchingFatwas": "Une erreur est survenue lors du chargement des Fatwas"
     },
     "login": {
         "title": "Se Connecter",
@@ -68,7 +78,10 @@
         "unanswered": "Non Répondues",
         "refNo": "Numéro de Référence",
         "status": "Statut",
-        "readMore": "Lire la Suite"
+        "readMore": "Lire la Suite",
+        "errorFetchingQuestions": "Une erreur est survenue lors du chargement des questions",
+        "loadingQuestions": "Chargement des questions",
+        "noResults": "Aucun résultat trouvé"
     },
     "profile": {
         "title": "Votre Profil",
@@ -100,7 +113,8 @@
         "successMessage": "Votre question a été soumise avec succès. Le mufti répondra dès que possible, et vous recevrez une notification de Fatwa.",
         "refNo": "Votre Numéro de Référence Fatwa",
         "backToHome": "Retour à l'Accueil",
-        "submitButton": "Soumettre"
+        "submitButton": "Soumettre",
+        "phoneLabel": "Numéro de téléphone"
     },
     "videoCall": {
         "raiseHand": "Lever la Main",
@@ -120,7 +134,10 @@
         "title": "Sélectionner un Mufti",
         "specialty": "Spécialité",
         "rating": "Évaluation",
-        "bookCall": "Réserver un appel"
+        "bookCall": "Réserver un appel",
+        "loading": "Chargement...",
+        "errorFetchingMuftis": "Une erreur est survenue lors du chargement des Muftis",
+        "noResults": "Aucun résultat trouvé"
     },
     "bookingForm": {
         "title": "Réservez un rendez-vous avec {{muftiName}}",
@@ -142,17 +159,31 @@
     "bookingConfirmation": {
         "title": "Réservation Confirmée",
         "thankYou": "Merci d'avoir réservé un appel avec {{muftiName}}!",
-        "yourDetails": "Vos détails:",
+        "bookingDetails": "Détails de réservation:",
         "fullName": "Nom complet",
         "email": "E-mail",
         "phone": "Téléphone",
         "date": "Date",
         "time": "Heure",
-        "meetingLink": "Lien de la réunion",
-        "copiedToClipboard": "Lien de la réunion copié dans le presse-papiers!",
+        "scheduleReviewMessage": "Votre planning est actuellement en cours de révision par l'administrateur.",
+        "emailConfirmationMessage": "Vous recevrez un e-mail contenant les détails de la réunion une fois votre planning confirmé.",
         "backToHome": "Retour à l'accueil"
     },
     "meetingPage": {
         "meetingTitle": "Réunion avec le Mufti"
+    },
+    "books": {
+        "title": "Livres",
+        "loading": "Chargement des livres...",
+        "errorFetchingBooks": "Une erreur est survenue lors de la récupération des livres.",
+        "noResults": "Aucun livre trouvé.",
+        "isbn": "ISBN",
+        "author": "Auteur",
+        "publisher": "Éditeur",
+        "publicationDate": "Date de publication",
+        "language": "Langue",
+        "pages": "Pages",
+        "read": "Lire",
+        "download": "Télécharger"
     }
 }

@@ -19,7 +19,11 @@
         "fatwaItem": {
             "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ#: ",
             "readMore": "ⵙⵉⵏⵃⴰⵔ"
-        }
+        },
+        "errorFetchingFatwasCategories": "ⵙⵉⵏⵃⴰⵔ ⵙⵉⵖ ⵏ ⵓⵙⵍⵓⵏ",
+        "loadingFatwasCategories": "ⵙⵉⵏⵃⴰⵔ ⵙⵉⵖ ⵏ ⵓⵙⵍⵓⵏ",
+        "loadingFatwas": "ⵙⵉⵏⵃⴰⵔ ⵙⵉⵖ ⵏ ⵓⵙⵍⵓⵏ",
+        "errorFetchingFatwas": "ⵙⵉⵏⵃⴰⵔ ⵙⵉⵖ ⵏ ⵓⵙⵍⵓⵏ"
     },
     "navbar": {
         "home": "ⴰⵅⵣⴰⵎ",
@@ -31,7 +35,8 @@
         "profile": "ⵜⵉⵊⵎⵉⵍⵜ",
         "logout": "ⵜⵜⵓⵍⵎⵜ",
         "login": "ⵙⴽⴰ",
-        "signup": "ⵙⴽⴽⵉⵔ"
+        "signup": "ⵙⴽⴽⵉⵔ",
+        "books": "ⵓⵙⵍⵓⵏ"
     },
     "about": {
         "title": "ⴰⵢⵢⵉⵏ ⵏⵡⵍ",
@@ -46,13 +51,18 @@
         "loading": "ⵜⴰⴷⷷⵔⵜ n fatwa...",
         "questionLabel": "ⵜⴰⵥⵡⴰⵡⵉⵏ",
         "answerLabel": "ⴰⵙⴳⵔⵉⵎ",
-        "backButton": "ⵙⵉⵏⵃⵓⵔ-ⵉⵟ"
+        "noResults": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ",
+        "backButton": "ⵙⵉⵏⵃⵓⵔ-ⵉⵟ",
+        "errorFetchingFatwa": "ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ"
     },
     "fatwaEncyclopedia": {
         "title": "ⵜⴰⵍⵙⵍⴰⵏ n Fatwa",
         "searchPlaceholder": "ⵙⵉⵖ ⵏ ⣚ⴰⵟⵡⴰ...",
         "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ",
-        "readMore": "ⵙⵉⵏⵃⴰⵔ"
+        "readMore": "ⵙⵉⵏⵃⴰⵔ",
+        "noResults": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ",
+        "loading": "ⵜⴰⴷⷷⵔⵜ n fatwa...",
+        "errorFetchingFatwas": "ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ"
     },
     "login": {
         "title": "ⵙⴽⴰ",
@@ -69,7 +79,10 @@
         "unanswered": "ⵓⵔ ⵉⵍⵍⴰ",
         "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ",
         "status": "ⵜⵎⵎⵔⵜ",
-        "readMore": "ⵙⵉⵏⵃⴰⵔ"
+        "readMore": "ⵙⵉⵏⵃⴰⵔ",
+        "errorFetchingQuestions": "ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ",
+        "loadingQuestions": "ⵜⴰⴷⷷⵔⵜ n fatwa...",
+        "noResults": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ"
     },
     "profile": {
         "title": "ⵜⵉⵊⵎⵉⵍⵜ-nwen",
@@ -101,7 +114,8 @@
         "successMessage": "ⵙⴽⴽⵉⵔ-ⵎⵙⵓⵏ ⵏⵉⵍⵍⵎ. ⵄⵙⵙⵏⵎⵉⵏⵜ i ⵙⴽⴽⵉⵔ n fatwa.",
         "refNo": "ⵏ°-ⵕⵉⵋⵓⵙ n fatwa",
         "backToHome": "ⵙⵉⵏⵃⵓⵔ-ⵉⵟ ⵡⵉⵍⵍⴰ",
-        "submitButton": "ⵙⴽⴽⵉⵔ"
+        "submitButton": "ⵙⴽⴽⵉⵔ",
+        "phoneLabel": "ⴰⵏⵉⵖ ⵏ ⵜⴰⴼⵉⵎⵎⵓⵔⵜ"
     },
     "videoCall": {
         "raiseHand": "ⵙⴻⴷⵖ ⵜⵜⴰⵣⵡⴰ",
@@ -121,7 +135,10 @@
         "title": "ⵉⵖⴱⴰⵍⵓ ⴰⴷ ⵙⵇⵓ ⵜⵎⵓⓕⵜⵉ",
         "specialty": "ⵜⵏⴰⵇⵉⵜ",
         "rating": "ⵜⴰⵡⵔⵉ",
-        "bookCall": "ⵙⵇⵓ ⵏ ⵓⵙⵓⵖ"
+        "bookCall": "ⵙⵇⵓ ⵏ ⵓⵙⵓⵖ",
+        "loading": "ⵜⴰⴷⷷⵔⵜ ⵉⵖⴱⴰⵍⵓ ⴰⴷ ⵙⵇⵓ ⵜⵎⵓⓕⵜⵉ",
+        "errorFetchingMuftis": "ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ ⵙⵉⵎⵎⵉⵔⵜ",
+        "noResults": "ⵓⵔ ⵉⵍⵍⴰ ⵉⵎⵉⴷⴰⵏⵏ"
     },
     "bookingForm": {
         "title": "ⵢⴰⵡⵏ ⵏ ⵎⴰⵍⵙⵉⵜ ⵏ ⵎⵓⴼⵜⵉ ⵏ {{muftiName}}",
@@ -143,17 +160,29 @@
     "bookingConfirmation": {
         "title": "ⵜⴰⴷⵡⵉⵜ ⵉⵖⵓⵚ",
         "thankYou": "ⵜⴰⵏⵎⵉⵔⵜ ⵙⵇⵓ ⵏ ⵓⵙⵓⵖ ⵏ {{muftiName}}!",
-        "yourDetails": "ⵜⴰⵣⵡⴰⵔⵜ-nk:",
+        "bookingDetails": "ⵜⴰⵣⵡⴰⵔⵜ-nk:",
         "fullName": "ⵉⵙⵎ ⵏ ⵓⵖⵉ",
         "email": "ⵉⵎⴰⵢⵏ",
         "phone": "ⵜⵍ",
         "date": "ⴰⵙⵙ",
         "time": "ⵜⴰⵇⵎⵉⵍⵜ",
-        "meetingLink": "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ",
-        "copiedToClipboard": "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ ⵏⵍⵍⴰ ⵏⵍⵙⵙⵎⵎⵉⵍⵎ",
+        "scheduleReviewMessage": "ⵜⵓⵏⴽⵓⵛⴻⵍⵏ ⵏⴽ ⴰⴷⴰⵔⵉⵙ ⵓⴷⴰⵍⵢⴰ ⵉⵇⵎ ⵏ ⵜⵉⵏⵓⵏⵙⵏ ⵏ ⵜⵙⵓⵕⵉⵡⴻⵏ.",
+        "emailConfirmationMessage": "ⴰⵢⵎⴰⵔ ⵉⵎⵣⵓⵏ ⵏⵇⵇⵉ ⵉⵇⵔ ⵜⴰⵙⵉⵏⵏⵉ ⵓⵙⵉⵎⵎⵏⵉⵙ ⵉⴽⵓ ⵜⵓⵏⵓⵕⵙⵏ ⴷⵉ ⵜⵓⵏⴽⵓⵛⴻⵍⵏ.",
         "backToHome": "ⴰⵔ ⵜⵙⵏⴰ"
     },
     "meetingPage": {
         "meetingTitle": "ⵜⴰⵇⵎⵉⵍⵜ ⵏ ⵓⵙⵓⵖ"
+    },
+    "books": {
+        "title": "ⵉⴽⴻⴷⵢⴰⵏ",
+        "loading": "ⵉⴽⴻⴷⵢⴰⵏ ⴰⵜⵜⵉⴷ...",
+        "errorFetchingBooks": "ⵜⵓⵛⵛⴷⴰ ⵢⴽⴽⵉ ⴷ ⵓⵙⴰⵏ ⴷ ⵏⴽⴽⵏⵉ ⵏ ⵉⴽⴻⴷⵢⴰⵏ.",
+        "noResults": "ⵓⵍⴰⵙ ⵉⴽⴻⴷⵢⴰⵏ ⵢⴻⵜⵜⵡⴰⴼⵔⴻⵏ.",
+        "isbn": "ⵉⵙⴱⵉⵏ",
+        "author": "ⴰⵎⵣⵔⵓⵢ",
+        "publisher": "ⴰⵅⴰⵎ ⵏ ⵜⴰⵎⴻⴷⵢⴰⵣⵜ",
+        "publicationDate": "ⴰⵣⵎⵣ ⵏ ⵜⴻⵎⵟⴰⵡⵜ",
+        "language": "ⵜⴰⵢⵉⵜ",
+        "pages": "ⵉⴼⴻⴹ"
     }
 }

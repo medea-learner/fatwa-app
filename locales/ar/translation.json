@@ -19,7 +19,11 @@
         "fatwaItem": {
             "refNo": "Ref-No#:",
             "readMore": "اقرأ المزيد"
-        }
+        },
+        "errorFetchingFatwasCategories": "حدث خطأ أثناء إضافة فئات الفتاوى الى القائمة",
+        "loadingFatwasCategories": "جارى تحميل فئات الفتاوى الى القائمة",
+        "loadingFatwas": "جارى تحميل الفتاوى",
+        "errorFetchingFatwas": "حدث خطأ أثناء إضافة الفتاوى"
     },
     "navbar": {
         "home": "الرئيسية",
@@ -31,7 +35,8 @@
         "profile": "الملف الشخصي",
         "logout": "تسجيل الخروج",
         "login": "تسجيل الدخول",
-        "signup": "انضم إلينا"
+        "signup": "انضم إلينا",
+        "books": "الكتب"
     },
     "about": {
         "title": "من نحن",
@@ -46,13 +51,18 @@
         "loading": "جاري تحميل الفتوى …",
         "questionLabel": "السؤال",
         "answerLabel": "الجواب",
-        "backButton": "عودة إلى الموسوعة"
+        "backButton": "عودة إلى الموسوعة",
+        "noResults": "لا توجد نتائج",
+        "errorFetchingFatwa": "حدث خطأ أثناء تحميل الفتوى"
     },
     "fatwaEncyclopedia": {
         "title": "موسوعة الفتاوى",
         "searchPlaceholder": "البحث عن فتوى …",
         "refNo": "رقم المرجع",
-        "readMore": "اقرأ المزيد"
+        "readMore": "اقرأ المزيد",
+        "noResults": "لا توجد نتائج",
+        "loading": "جاري تحميل الفتاوى …",
+        "errorFetchingFatwas": "حدث خطأ أثناء تحميل الفتاوى"
     },
     "login": {
         "title": "FATWA",
@@ -68,7 +78,10 @@
         "unanswered": "لم تُجَب",
         "refNo": "رقم المرجع",
         "status": "الحالة",
-        "readMore": "اقرأ المزيد"
+        "readMore": "اقرأ المزيد",
+        "errorFetchingQuestions": "حدث خطأ أثناء تحميل الأسئلة",
+        "loadingQuestions": "جاري تحميل الأسئلة",
+        "noResults": "لا توجد نتائج"
     },
     "profile": {
         "title": "حسابك",
@@ -100,7 +113,8 @@
         "successMessage": "تم إرسال سؤالك بنجاح، سيجيب المفتي في أقرب وقت وستتلقى إشعار الفتوى.",
         "refNo": "رقم الفتوى",
         "backToHome": "العودة إلى الرئيسية",
-        "submitButton": "إرسال"
+        "submitButton": "إرسال",
+        "phoneLabel":"رقم الهاتف"
     },
     "videoCall": {
         "raiseHand": "ارفع يدك",
@@ -120,7 +134,10 @@
         "title": "اختر مفتيًا",
         "specialty": "تخصص",
         "rating": "تقييم",
-        "bookCall": "احجز مكالمة"
+        "bookCall": "احجز مكالمة",
+        "loading": "جاري تحميل المفتيين …",
+        "errorFetchingMuftis": "حدث خطأ أثناء تحميل المفتيين",
+        "noResults": "لا توجد نتائج"
     },
     "bookingForm": {
         "title": "حجز موعد مع {{muftiName}}",
@@ -142,18 +159,29 @@
     "bookingConfirmation": {
         "title": "تم تأكيد الحجز",
         "thankYou": "شكرًا لك على حجز مكالمة مع {{muftiName}}!",
-        "yourDetails": "تفاصيلك:",
+        "bookingDetails": "تفاصيل الحجز:",
         "fullName": "الاسم الكامل",
         "email": "البريد الإلكتروني",
         "phone": "الهاتف",
         "date": "التاريخ",
         "time": "الوقت",
-        "meetingLink": "رابط الموعد",
-        "copiedToClipboard": "تم نسخ الرابط إلى الحافظة",
+        "scheduleReviewMessage": "الجدول الزمني الخاص بك قيد المراجعة حاليًا من قبل الإدارة.",
+        "emailConfirmationMessage": "ستتلقى بريدًا إلكترونيًا يحتوي على تفاصيل الاجتماع بمجرد تأكيد الجدول الزمني.",
         "backToHome": "العودة إلى الرئيسية"
     },
     "meetingPage": {
         "meetingTitle": "موعد مع المفتي"
+    },
+    "books": {
+        "title": "الكتب",
+        "loading": "جاري التحميل...",
+        "errorFetchingBooks": "حدث خطأ أثناء جلب الكتب",
+        "noResults": "لم يتم العثور على كتب",
+        "author": "المؤلف",
+        "publisher": "الناشر",
+        "isbn": "ISBN",
+        "publicationDate": "تاريخ النشر",
+        "pages": "عدد الصفحات"
     }
 }
   
